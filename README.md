@@ -29,6 +29,8 @@ Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who l
 ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
 ![go](https://img.shields.io/badge/go-000?style=for-the-badge&logo=go)
 
+![svelte](https://img.shields.io/badge/svelte-000?style=for-the-badge&logo=svelte)
+
 ### Operating Systems I am familiar with
 
 ![windows](https://img.shields.io/badge/windows-000?style=for-the-badge&logo=windows)
