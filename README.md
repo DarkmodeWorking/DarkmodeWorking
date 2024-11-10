@@ -22,23 +22,31 @@ Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who l
 
 ### Programming Languages I am good at
 
-![c](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c)
-![cplusplus](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=cplusplus&logoColor=ff004f)
+![c](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![cplusplus](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
 ![go](https://img.shields.io/badge/go-000?style=for-the-badge&logo=go)
-
-![svelte](https://img.shields.io/badge/svelte-000?style=for-the-badge&logo=svelte)
+![dotnet](https://img.shields.io/badge/dotnet-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 
 ### Operating Systems I am familiar with
 
 ![windows](https://img.shields.io/badge/windows-000?style=for-the-badge&logo=windows)
 ![ubuntu](https://img.shields.io/badge/ubuntu-000?style=for-the-badge&logo=ubuntu)
 
+### Favourite Cars
+![ferrari](https://img.shields.io/badge/ferrari-000?style=for-the-badge&logo=ferrari&logoColor=D40000)
+![mercedes](https://img.shields.io/badge/mercedes-000?style=for-the-badge&logo=mercedes&logoColor=fff)
+![chevrolet](https://img.shields.io/badge/chevrolet-000?style=for-the-badge&logo=chevrolet&logoColor=CD9834)
+![nissan](https://img.shields.io/badge/nissan-000?style=for-the-badge&logo=nissan&logoColor=EB0A1E)
+
+### Favourite Beverage
+![redbull](https://img.shields.io/badge/redbull-000?style=for-the-badge&logo=redbull&logoColor=DB0A40)
+
 ### Socials Links
 ![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)
-![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)
+![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)
 ![x](https://img.shields.io/badge/x-000?style=for-the-badge&logo=x)
 ![discord](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord)
 ![gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail)
