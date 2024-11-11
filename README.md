@@ -23,15 +23,19 @@ Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who l
 ### Programming Languages I know
 
 ![c](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
+
 ![cplusplus](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
+
 ![go](https://img.shields.io/badge/go-000?style=for-the-badge&logo=go)
 ![dart](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![php](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=777BB4)
 
-### Frameworks I have worked with
+![dotnet](https://img.shields.io/badge/dotnet-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![flutter](https://img.shields.io/badge/flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B)
+<!-- ### Frameworks I have worked with
 
 ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![dotnet](https://img.shields.io/badge/dotnet-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
@@ -47,7 +51,7 @@ Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who l
 ![firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=DD2C00)
 ![supabase](https://img.shields.io/badge/supabase-000?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![appwrite](https://img.shields.io/badge/appwrite-000?style=for-the-badge&logo=appwrite&logoColor=FD366E)
+![appwrite](https://img.shields.io/badge/appwrite-000?style=for-the-badge&logo=appwrite&logoColor=FD366E) -->
 
 ### Coding Platforms I am in
 ![hackerrank](https://img.shields.io/badge/hackerrank-000?style=for-the-badge&logo=hackerrank&logoColor=00EA64)
@@ -70,19 +74,31 @@ Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who l
 ![ferrari](https://img.shields.io/badge/ferrari-000?style=for-the-badge&logo=ferrari&logoColor=D40000)
 ![mercedes](https://img.shields.io/badge/mercedes-000?style=for-the-badge&logo=mercedes&logoColor=fff)
 ![renault](https://img.shields.io/badge/renault-000?style=for-the-badge&logo=renault&logoColor=FFCC33)
-![toyota](https://img.shields.io/badge/toyota-000?style=for-the-badge&logo=toyota&logoColor=EB0A1E)
-![bmw](https://img.shields.io/badge/bmw-000?style=for-the-badge&logo=bmw&logoColor=0066B1)
-![porsche](https://img.shields.io/badge/porsche-000?style=for-the-badge&logo=porsche&logoColor=B12B28)
+![mitsubishi](https://img.shields.io/badge/mitsubishi-000?style=for-the-badge&logo=mitsubishi&logoColor=EB0A1E)
+
+![jeep](https://img.shields.io/badge/jeep-000?style=for-the-badge&logo=jeep&logoColor=fff)
+![volkswagen](https://img.shields.io/badge/volkswagen-000?style=for-the-badge&logo=volkswagen&logoColor=2C8EBB)
 ![lamborghini](https://img.shields.io/badge/lamborghini-000?style=for-the-badge&logo=lamborghini&logoColor=B6A272)
 <!-- ![honda](https://img.shields.io/badge/honda-000?style=for-the-badge&logo=honda&logoColor=E40521) -->
 
-### Miscelleneous Things I consume
-![fifa](https://img.shields.io/badge/fifa-000?style=for-the-badge&logo=fifa&logoColor=326295)
+### Love to watch
 ![f1](https://img.shields.io/badge/f1-000?style=for-the-badge&logo=f1&logoColor=E10600)
+![premierleague](https://img.shields.io/badge/premierleague-000?style=for-the-badge&logo=premierleague&logoColor=360D3A)
+![ufc](https://img.shields.io/badge/ufc-000?style=for-the-badge&logo=ufc&logoColor=D20A0A)
 ![nba](https://img.shields.io/badge/nba-000?style=for-the-badge&logo=nba&logoColor=253B73)
+![nhl](https://img.shields.io/badge/nhl-000?style=for-the-badge&logo=nhl&logoColor=FFFFFF)
+
+### Love to play
+
+![wwe](https://img.shields.io/badge/wwe-000?style=for-the-badge&logo=wwe&logoColor=fff)
+![pubg](https://img.shields.io/badge/pubg-000?style=for-the-badge&logo=pubg&logoColor=F4B942)
+
+### I Love to eat and drink
 
 ![redbull](https://img.shields.io/badge/redbull-000?style=for-the-badge&logo=redbull&logoColor=DB0A40)
+![mcdonalds](https://img.shields.io/badge/mcdonalds-000?style=for-the-badge&logo=mcdonalds&logoColor=FBC817)
 ![kfc](https://img.shields.io/badge/kfc-000?style=for-the-badge&logo=kfc&logoColor=F40027)
+![cocacola](https://img.shields.io/badge/cocacola-000?style=for-the-badge&logo=cocacola&logoColor=D00013)
 
 ### Socials Links
 ![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)
