@@ -46,7 +46,7 @@ Official Techfest website for Techverse (The Departmental TechFest organized by 
 - Registration through website with backend compatibilty.
 - Admin Panel for viewing registrations of participants in events.
 - Technology Used: NextJS | Aceternity UI | Tailwind | MongoDB
-- Link to Visit: [Techverse 3.0](https://www.tech-verse.tech)
+- Link to Visit: [Techverse 3.0](https://tech-verse.tech)
 
 ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
 ![next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js)
