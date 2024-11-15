@@ -38,14 +38,15 @@ Deolo is a bookstore website made using Django.
 ![jinja](https://img.shields.io/badge/jinja-000?style=for-the-badge&logo=jinja)
 ![jquery](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
 
-### Techverse 3.0 - Official Techfest website for Techverse (The Departmental TechFest organized by Department of CSE).
+### Techverse 3.0 - Techfest by Dept of CSE
 
+Official Techfest website for Techverse (The Departmental TechFest organized by Department of CSE).
 - Awesome eye-catching and mersmerising design with fluid animations.
 - Usage of Component libraries to maximize design and attractiveness.
 - Registration through website with backend compatibilty.
 - Admin Panel for viewing registrations of participants in events.
 - Technology Used: NextJS | Aceternity UI | Tailwind | MongoDB
-- Link to Visit:
+- Link to Visit: [Techverse 3.0](https://www.tech-verse.tech)
 
 ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
 ![next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=next.js)
