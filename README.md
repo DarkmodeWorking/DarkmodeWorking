@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who likes Cars, Cats and Coffee. Thank you for finding out my profile. I hope you have a good time.
 
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=DarkmodeWorking&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmodeWorking&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkmodeWorking&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
 
 ### Programming Languages I know
 
@@ -90,7 +90,10 @@ Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who l
 
 ### Love to play
 
-![wwe](https://img.shields.io/badge/wwe-000?style=for-the-badge&logo=wwe&logoColor=fff)
+![valorant](https://img.shields.io/badge/valorant-000?style=for-the-badge&logo=valorant)
+![wwe](https://img.shields.io/badge/wwe-000?style=for-the-badge&logo=wwe)
+![leagueoflegends](https://img.shields.io/badge/leagueoflegends-000?style=for-the-badge&logo=leagueoflegends)
+![undertale](https://img.shields.io/badge/undertale-000?style=for-the-badge&logo=undertale&logoColor=E71D29)
 ![pubg](https://img.shields.io/badge/pubg-000?style=for-the-badge&logo=pubg&logoColor=F4B942)
 
 ### I Love to eat and drink
