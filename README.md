@@ -19,7 +19,7 @@ Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who l
 
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=DarkmodeWorking&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmodeWorking&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
-
+<!--
 ## Projects I have worked upon:
 
 ### Deolo - Bookstore
@@ -54,7 +54,7 @@ Official Techfest website for Techverse (The Departmental TechFest organized by 
 ![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
 ![mongodb](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb)
 ![cloudinary](https://img.shields.io/badge/cloudinary-000?style=for-the-badge&logo=cloudinary)
-
+-->
 ### Programming Languages I know
 
 ![c](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
