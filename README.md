@@ -70,7 +70,7 @@ Official Techfest website for Techverse (The Departmental TechFest organized by 
 
 ### Professional Framework I work with
 
-![dotnet](https://img.shields.io/badge/dotnet-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![dotnet](https://img.shields.io/badge/dotnet-000?style=for-the-badge&logo=dotnet&logoColor=512BD4) 
 <!-- ### Frameworks I have worked with
 
 ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -122,7 +122,7 @@ Official Techfest website for Techverse (The Departmental TechFest organized by 
 ![intel](https://img.shields.io/badge/intel-000?style=for-the-badge&logo=intel&logoColor=0071C5)
 ![dolby](https://img.shields.io/badge/dolby-000?style=for-the-badge&logo=dolby&logoColor)
 
-### Love to watch
+<!-- ### Love to watch
 ![f1](https://img.shields.io/badge/f1-000?style=for-the-badge&logo=f1&logoColor=E10600)
 ![premierleague](https://img.shields.io/badge/premierleague-000?style=for-the-badge&logo=premierleague&logoColor=360D3A)
 ![ufc](https://img.shields.io/badge/ufc-000?style=for-the-badge&logo=ufc&logoColor=D20A0A)
@@ -134,7 +134,7 @@ Official Techfest website for Techverse (The Departmental TechFest organized by 
 ![redbull](https://img.shields.io/badge/redbull-000?style=for-the-badge&logo=redbull&logoColor=DB0A40)
 ![mcdonalds](https://img.shields.io/badge/mcdonalds-000?style=for-the-badge&logo=mcdonalds&logoColor=FBC817)
 ![kfc](https://img.shields.io/badge/kfc-000?style=for-the-badge&logo=kfc&logoColor=F40027)
-![cocacola](https://img.shields.io/badge/cocacola-000?style=for-the-badge&logo=cocacola&logoColor=D00013)
+![cocacola](https://img.shields.io/badge/cocacola-000?style=for-the-badge&logo=cocacola&logoColor=D00013) -->
 
 ### Socials Links
 ![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)
