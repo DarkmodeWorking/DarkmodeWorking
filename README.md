@@ -55,7 +55,7 @@ Official Techfest website for Techverse (The Departmental TechFest organized by 
 ![mongodb](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb)
 ![cloudinary](https://img.shields.io/badge/cloudinary-000?style=for-the-badge&logo=cloudinary)
 -->
-### Programming Languages I know
+<!-- ### Programming Languages I know
 
 ![c](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
@@ -70,7 +70,7 @@ Official Techfest website for Techverse (The Departmental TechFest organized by 
 
 ### Professional Framework I work with
 
-![dotnet](https://img.shields.io/badge/dotnet-000?style=for-the-badge&logo=dotnet&logoColor=512BD4) 
+![dotnet](https://img.shields.io/badge/dotnet-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)  -->
 <!-- ### Frameworks I have worked with
 
 ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=61DAFB)
