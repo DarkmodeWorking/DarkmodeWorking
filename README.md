@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who likes Cars, Cats and Coffee. Thank you for finding out my profile. I hope you have a good time.
 
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=DarkmodeWorking&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmodeWorking&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmodeWorking&layout=compact&langs_count=15&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
+
 <!--
 ## Projects I have worked upon:
 
