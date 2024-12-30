@@ -120,10 +120,12 @@ Official Techfest website for Techverse (The Departmental TechFest organized by 
 ![lamborghini](https://img.shields.io/badge/lamborghini-000?style=for-the-badge&logo=lamborghini&logoColor=B6A272)
 <!-- ![honda](https://img.shields.io/badge/honda-000?style=for-the-badge&logo=honda&logoColor=E40521) -->
 
+<!--
 ### My Laptop Powered By
 ![lenovo](https://img.shields.io/badge/lenovo-000?style=for-the-badge&logo=lenovo&logoColor=E2231A)
 ![intel](https://img.shields.io/badge/intel-000?style=for-the-badge&logo=intel&logoColor=0071C5)
 ![dolby](https://img.shields.io/badge/dolby-000?style=for-the-badge&logo=dolby&logoColor)
+-->
 
 <!-- ### Love to watch
 ![f1](https://img.shields.io/badge/f1-000?style=for-the-badge&logo=f1&logoColor=E10600)
