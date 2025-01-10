@@ -20,7 +20,7 @@ Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who l
 <p style="color:red;">This is my second Github Account as previous got lost. <p>
 
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=DarkmodeWorking&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkmodeWorking&layout=compact&langs_count=25&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkmodeWorking&layout=compact&langs_count=25&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=tru)
 
 <!--
 ## Projects I have worked upon:
