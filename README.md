@@ -24,7 +24,7 @@ Hi! I am Anurag Bhattacharjee. I am your friendly neighbourhood programmer who l
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkmodeWorking&layout=compact&langs_count=25&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&card_width=500&logo)
 
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DarkmodeWorking&theme=midnight-purple&hide_border=true)
+<!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DarkmodeWorking&theme=midnight-purple&hide_border=true) -->
 
 
 
